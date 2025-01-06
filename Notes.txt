@@ -1,0 +1,33 @@
+cloud engineer roadmap
+========================
+
+
+
+
+
+
+
+
+
+
+aws associate exam
+===========================
+q. what is aws?
+	in 2006 amazon started giving it services to market in the form of web services.
+	now its known as cloud computing.
+	cloud computing means accessing and storing data over internet.
+	doest store data in pc. store in remote server
+	
+q. why aws?
+	suppose i am creating one web app, i need a db,need jdk if its java,need to purchase server to run app. 
+	i need to set up comlete infrastructure. i f user is not accessing app also i need to pay for this component.
+	if users are increasing, ineed to increase no of servers and its chargable.
+	these issues can be overcome by aws.
+	
+	aws offer you to create a virtual machine. Within that we can add server, database also multiple cloud infrastructure 
+	we can build in it. The servers can be scale up to 100s of servers within seconds. To increase server, i can specify no of
+	instances i want. storage also. We can easily scale in cloud infrastructure.
+	
+	This virtual machine (vm) known as ec2 instance. EC2 - Elastic compute cloud.
+	
+	
